@@ -1,0 +1,47 @@
+input {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+.background {
+   background-color: #e1e4e7;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   
+ }
+
+
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.upload-btn-wrapper input[type=file] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+.title {
+ text-transform: uppercase;
+ font-size:0.8em;
+ font-family: Helvetica, sans-serif
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+h6 {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    color:#95a5a6;
+    border-bottom: solid 1px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
