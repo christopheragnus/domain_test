@@ -34,7 +34,7 @@ Allow approximately 4-5 hours to complete the task.
 #
 ## Results
 
-![screenshot2]()
+![screenshot2](https://raw.githubusercontent.com/christopheragnus/domain_test/master/finished.png)
 
 ### How to run
 
