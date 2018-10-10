@@ -4,7 +4,7 @@
 
 ## Task: hCard Builder
 
-
+![screenshot](https://raw.githubusercontent.com/christopheragnus/domain_test/master/completed-view.png)
 
 [hCard is a simple, open format for publishing people, companies and
 organizations on the web](http://microformats.org/wiki/hCard).
@@ -34,6 +34,8 @@ Allow approximately 4-5 hours to complete the task.
 #
 ## Results
 
+![screenshot2]()
+
 ### How to run
 
 * To run this file, download and 'cd' into domain_vue and run 'yarn serve'.
@@ -45,12 +47,14 @@ Allow approximately 4-5 hours to complete the task.
 * Determine what parent and child components are necessary.
 * Create CSS flexbox/grids and apply colours/ font-family
 * Add Javascript snippet for image upload preview.
+* Check responsiveness of design, and add breakpoints.
 * Depending on the version, implement logic in React and Vue to bind data to the input form, allowing for live previews.
 
 
 ### Challenges
 
 * If I had a bit more time, I would refactor more of the code (add more components) and implement hCard's classes in Vue as well.
+* Add a TDD framework to test the fields as well.
 
 
 ### Live app
@@ -58,4 +62,4 @@ Allow approximately 4-5 hours to complete the task.
 * The live VueJS version of the app is deployed here on Heroku: http://domain420.herokuapp.com/
 
 ### Contact me
-* Linkedin: https://www.linkedin.com/in/clam8/
+* Want to work with me? Reach out on Linkedin: https://www.linkedin.com/in/clam8/
